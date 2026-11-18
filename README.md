@@ -4,7 +4,9 @@
 [![rank](https://make.fun/badge/news-image-20261117/cffilham-jpg/makefun-news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 [![reward](https://make.fun/badge/news-image-20261117/cffilham-jpg/makefun-news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 
-One image summing up the world's news of Tuesday 17 November 2026: an editorial infographic with six illustrated stories — Ukraine's second strike on the Crimea bridge, Iranian drones targeting a U.S. radar in Bahrain, Trump landing in Manila ahead of the Xi–Putin summit, China condemning U.S. AI chip curbs, JPMorgan blaming a software bug for its banking outage, and Japan scrambling jets over a Russian airspace incursion. Every story happened or was first reported on 17 November 2026 (sources: BBC, AP, Reuters, Al Jazeera, ABC News, Just Security).
+One image summing up the world's news of Tuesday 17 November 2026: an editorial infographic with four large illustrated stories, redesigned for legibility — Ukraine's second strike on the Crimea bridge, Iranian drones targeting a U.S. radar in Bahrain, Trump in Manila for the ASEAN summit, and China condemning U.S. AI chip curbs. Every story happened or was first reported on 17 November 2026 (sources: BBC, AP, Reuters, Al Jazeera).
+
+v2 redesign (18 Nov): 4 panels instead of 6, headlines in condensed extra-bold at 44–48px (vs 27px in v1) so they stay readable at ~300px, and a larger date masthead.
 
 ## Run it
 
